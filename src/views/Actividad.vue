@@ -308,7 +308,7 @@ export default {
         },
         {
           id: 10,
-          ttexto: '¿Qué es una amenaza?',
+          texto: '¿Qué es una amenaza?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [

@@ -48,7 +48,7 @@
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t4/img5.jpg')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 La calidad del servicio de vigilancia depende de la capacidad del operador para mantener la atención durante periodos prolongados, identificar señales relevantes y responder oportunamente ante situaciones de riesgo. Diversos estudios han demostrado que la capacidad para detectar eventos poco frecuentes disminuye con el tiempo, fenómeno conocido como #[b decremento de la vigilancia (#[i vigilance decrement])], aspecto que debe considerarse en la organización de los turnos, los periodos de descanso y la distribución de las tareas.
-      p.mb-5 Para fortalecer estas habilidades es recomendable desarrollar actividades de entrenamiento que favorezcan la concentración, la rapidez de respuesta y la toma de decisiones:
+      p.mb-5 Para fortalecer estas habilidades, es recomendable desarrollar actividades de entrenamiento que favorezcan la concentración, la rapidez de respuesta y la toma de decisiones:
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -61,7 +61,7 @@
               p.mb-3 Alternar actividades como el monitoreo de cámaras y la atención de comunicaciones internas para desarrollar la atención dividida.
             .row(titulo="Simulacros con distractores").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Incorporar llamadas falsas, ruidos o múltiples eventos simultáneos para fortalecer la priorización y la capacidad de respuesta.
-            .row(titulo="Micro-pausas y ergonomía visual").ajuste-cajaAcordion.ajuste-vineta
+            .row(titulo="Micropausas y ergonomía visual").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Aplicar la regla #[b 20-20-20], que consiste en dirigir la mirada durante 20 segundos hacia un punto ubicado aproximadamente a seis metros de distancia cada 20 minutos, con el fin de reducir la fatiga visual.
             .row(titulo="Guiones o listas mentales").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Aplicar secuencias como #[b detectar, confirmar, comunicar  y actuar], facilitando la toma de decisiones y reduciendo la carga cognitiva.
@@ -77,7 +77,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Organización de turnos:] establecer rotaciones, micro-pausas y alternancia de tareas para disminuir el efecto del decremento de la vigilancia.
+                | #[b Organización de turnos:] establecer rotaciones, micropausas y alternancia de tareas para disminuir el efecto del decremento de la vigilancia.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -199,7 +199,7 @@
         h2 4.7 Procedimientos de observación
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
-          p Los procedimientos de observación corresponden a una secuencia organizada de actividades que permite obtener información confiable, objetiva y útil para la toma de decisiones. En el ámbito de la vigilancia y seguridad privada incluyen patrullajes periódicos, inspección de instalaciones, verificación del funcionamiento de equipos tecnológicos y elaboración de informes sobre las novedades identificadas.
+          p Los procedimientos de observación corresponden a una secuencia organizada de actividades que permite obtener información confiable, objetiva y útil para la toma de decisiones. En el ámbito de la vigilancia y seguridad privada, incluyen patrullajes periódicos, inspección de instalaciones, verificación del funcionamiento de equipos tecnológicos y elaboración de informes sobre las novedades identificadas.
           .box___style_1(data-aos="fade-right")
             .row.align-items-center
               .col-xl-auto.d-none.d-xl-block(data-aos="zoom-in")

@@ -11,7 +11,7 @@
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t3/img1.jpg')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 La gestión de riesgos y emergencias constituye un proceso fundamental para la protección de las personas, los bienes y la continuidad de las operaciones en los servicios de vigilancia y seguridad privada. Su propósito es identificar las amenazas y vulnerabilidades, evaluar los riesgos, establecer medidas de control y definir procedimientos de respuesta que permitan minimizar las consecuencias de los incidentes. Para ello, se integran los principios establecidos en la #[b ISO 31000:2018], la #[b ISO 22320:2018] y la normativa colombiana sobre gestión del riesgo de desastres.
-      p.mb-5 La comprensión de los conceptos básicos facilita la evaluación de los riesgos y la selección de las medidas preventivas y correctivas más apropiadas para cada situación:
+      p.mb-5 La comprensión de los conceptos básicos facilita la evaluación de los riesgos y la selección de las medidas preventivas y correctivas más apropiadas para cada situación.
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -21,9 +21,9 @@
             .row(titulo="Amenaza").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Corresponde a cualquier condición, evento o agente con capacidad de causar daño o pérdidas. En seguridad privada puede tener origen natural, tecnológico o social. Algunos ejemplos son las inundaciones, los cortes de energía, los hurtos o el vandalismo. La identificación de amenazas específicas, como el hurto nocturno en una bodega, permite priorizar controles técnicos y operativos que deben registrarse durante el diagnóstico inicial del plan de gestión del riesgo.
             .row(titulo="Vulnerabilidad").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Hace referencia a las condiciones internas que incrementan la probabilidad o el impacto cuando una amenaza se materializa. En vigilancia privada puede estar asociada con puntos ciegos en los sistemas de CCTV, personal sin capacitación suficiente o procedimientos deficientes para el control de acceso. La reducción de estas debilidades disminuye significativamente la exposición al riesgo.
+              p.mb-3 Hace referencia a las condiciones internas que incrementan la probabilidad o el impacto cuando una amenaza se materializa. En vigilancia privada, puede estar asociada con puntos ciegos en los sistemas de CCTV, personal sin capacitación suficiente o procedimientos deficientes para el control de acceso. La reducción de estas debilidades disminuye significativamente la exposición al riesgo.
             .row(titulo="Impacto").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Representa la magnitud de las consecuencias ocasionadas por la materialización de un riesgo. Puede reflejarse en pérdidas económicas, lesiones a las personas, afectaciones reputacionales o interrupciones de la operación. Generalmente se clasifica como alto, medio o bajo para facilitar la priorización de recursos y la toma de decisiones.
+              p.mb-3 Representa la magnitud de las consecuencias ocasionadas por la materialización de un riesgo. Puede reflejarse en pérdidas económicas, lesiones a las personas, afectaciones reputacionales o interrupciones de la operación. Generalmente, se clasifica como alto, medio o bajo para facilitar la priorización de recursos y la toma de decisiones.
       .row.align-items-center.mb-5
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
@@ -524,7 +524,7 @@
             .row(titulo="Consecuencias").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Son los efectos que pueden producirse cuando el evento crítico ocurre.
             .row(titulo="Barreras de mitigación").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Comprenden las medidas destinadas a reducir el impacto o las consecuencias del evento una vez se ha presentado.
+              p.mb-3 Comprenden las medidas destinadas a reducir el impacto o las consecuencias del evento una vez que se ha presentado.
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           p En el ámbito de la vigilancia y seguridad privada, esta metodología facilita la identificación de controles redundantes, la detección de puntos débiles y la definición de estrategias de prevención y respuesta. Por ejemplo, ante el riesgo de #[b pérdida de control del centro de monitoreo], las causas pueden corresponder a fallas eléctricas, errores operativos o fallas en las comunicaciones; mientras que las consecuencias pueden incluir la interrupción del monitoreo, la pérdida de evidencias y la afectación del servicio. Entre ambos elementos se ubican las barreras preventivas y de mitigación que permiten controlar el riesgo.
@@ -757,7 +757,7 @@
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t3/img61.png', alt='').m-auto
-      p.mb-5 Para realizar esta estimación es necesario utilizar información proveniente de diversas fuentes que permitan fundamentar el análisis en datos objetivos;
+      p.mb-5 Para realizar esta estimación es necesario utilizar información proveniente de diversas fuentes que permitan fundamentar el análisis en datos objetivos.
       .bg___carrusel
         .px-5
           .row.align-items-center.mb-5
@@ -993,7 +993,7 @@
                       img(src='@/assets/curso/temas/t3/img84.svg', alt="" style="max-width: 90px").m-auto
                   h4.text-center Según su severidad
                   p.mb-0.text-center Se clasifican como leves, moderadas o críticas, de acuerdo con la magnitud de sus consecuencias y los recursos requeridos para su atención.
-          p.mb-5 En el sector de la vigilancia y seguridad privada, la preparación del personal constituye un elemento esencial para garantizar una respuesta eficaz. Esto implica conocer los procedimientos establecidos en los planes de prevención, preparación y respuesta ante emergencias (PPRE), así como desarrollar la capacidad para valorar rápidamente la situación y activar los protocolos correspondientes. Durante la atención inicial de una emergencia resulta fundamental aplicar acciones que permitan obtener información confiable y tomar decisiones oportunas:
+          p.mb-5 En el sector de la vigilancia y seguridad privada, la preparación del personal constituye un elemento esencial para garantizar una respuesta eficaz. Esto implica conocer los procedimientos establecidos en los planes de prevención, preparación y respuesta ante emergencias (PPRE), así como desarrollar la capacidad para valorar rápidamente la situación y activar los protocolos correspondientes. Durante la atención inicial de una emergencia, resulta fundamental aplicar acciones que permitan obtener información confiable y tomar decisiones oportunas:
           TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
             .py-3.py-md-4(titulo="Detección del evento")
               .row.justify-content-center.align-items-center

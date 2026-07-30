@@ -305,7 +305,7 @@
           .row.justify-content-center.mb-5
             .col-xl-10
               AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in")
-                .row(titulo="Decreto 2535 de 1993 Régimen de armas, municiones y explosivos").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Decreto 2535 de 1993: Régimen de armas, municiones y explosivos").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] regula la tenencia y el porte de armas, municiones y explosivos en Colombia, estableciendo normas para su clasificación, control y expedición de permisos.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-3
@@ -337,7 +337,7 @@
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
                       | Título XI. Multas y decomiso de armas, municiones, explosivos y accesorios.
-                .row(titulo="Decreto 356 de 1994 Estatuto de vigilancia y seguridad privada").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Decreto 356 de 1994: Estatuto de vigilancia y seguridad privada").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] regula la constitución y operación de las empresas de vigilancia y seguridad privada y define los servicios autorizados.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-3
@@ -357,7 +357,7 @@
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
                       | Control sobre armas y registros.
-                .row(titulo="Decreto 2187 de 2001 Reglamenta el estatuto de vigilancia y seguridad privada").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Decreto 2187 de 2001: Reglamenta el estatuto de vigilancia y seguridad privada").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] complementa el Decreto-Ley 356 de 1994 en aspectos técnicos y administrativos.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-3
@@ -369,7 +369,7 @@
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
                       | Asigna funciones de inspección, vigilancia y sanción a la Superintendencia de Vigilancia y Seguridad Privada.
-                .row(titulo="Resolución 2852 de 2006 Constitución previa, licencias y renovaciones").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Resolución 2852 de 2006: Constitución previa, licencias y renovaciones").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] reglamenta la constitución, el licenciamiento y la renovación de las empresas de vigilancia y seguridad privada.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-3
@@ -385,7 +385,7 @@
                       span.fa-li
                         i.fas.fa-check-circle
                       | Renovación de licencias de funcionamiento.
-                .row(titulo="Circular Externa 044 de 2007 Sistema de atención al cliente").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Circular Externa 044 de 2007: Sistema de atención al cliente").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] establece lineamientos para la atención de usuarios y la gestión de peticiones, quejas y reclamaciones.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-3
@@ -401,7 +401,7 @@
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
                       | Suministro de información y solución oportuna a los usuarios.
-                .row(titulo="Ley 1539 de 2012 Certificado de aptitud psicofísica").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Ley 1539 de 2012: Certificado de aptitud psicofísica").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] establece como requisito obligatorio el certificado de aptitud psicofísica para el personal de vigilancia que porte armas.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-3
@@ -417,7 +417,7 @@
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
                       | Crea un sistema de control para la Superintendencia de Vigilancia y Seguridad Privada.
-                .row(titulo="Circular Externa 20221300000675 de 2022 Tarifas mínimas y criterios de contratación").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Circular Externa 20221300000675 de 2022: Tarifas mínimas y criterios de contratación").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] define criterios para las tarifas mínimas y las condiciones de contratación de los servicios de vigilancia privada.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-0
@@ -433,7 +433,7 @@
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
                       | Incidencia en licitaciones y contratos.
-                .row(titulo="Circular Externa 20231300000435 de 2023 Regulación de armas traumáticas").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Circular Externa 20231300000435 de 2023: Regulación de armas traumáticas").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] establece criterios técnicos y administrativos para el uso de armas traumáticas por parte de los servicios de vigilancia privada.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-0
@@ -449,7 +449,7 @@
                       span.fa-li
                         i.fas.fa-arrow-alt-circle-right
                       | Solicitud de autorización de porte y tenencia ante el DCCAE.
-                .row(titulo="Decreto 1565 de 2022 Actualización del PEIS para academias de vigilancia y seguridad privada").ajuste-cajaAcordion.ajuste-vineta
+                .row(titulo="Decreto 1565 de 2022: Actualización del PEIS para academias de vigilancia y seguridad privada").ajuste-cajaAcordion.ajuste-vineta
                   p #[b Objetivo:] actualiza los contenidos temáticos y aspectos administrativos de la formación impartida por las escuelas de vigilancia y seguridad privada.
                   p.mb-0 #[b Aspectos relevantes:]
                   ul.fa-ul.mb-0
