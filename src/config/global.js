@@ -218,7 +218,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/622300_CF05_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -486,10 +486,34 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: 'Experto temático',
+          nombre: 'María Angelica Gómez Morales',
+          cargo: 'Experta temático',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Ana Roció Rosero Cortes',
+          cargo: 'Experta temático',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leonardo Camacho Acevedo',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Alba Mireya Orjuela Toro',
+          cargo: 'Experta temático',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Juan Pablo Cristancho Cubillos ',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital ',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',

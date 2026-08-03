@@ -38,8 +38,8 @@
       p.mb-5 Para prestar un servicio de seguridad privada de manera adecuada, es fundamental conocer las modalidades establecidas por la normativa y las características de cada una de ellas:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption.fit___figcaption-video Video. Modalidades de la vigilancia y seguridad privada
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/hBDT-OzqegU" title="Modalidades y características del servicio de vigilancia y seguridad privada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption.fit___figcaption-video Video. Modalidades y características del servicio de vigilancia y seguridad privada
       p.mb-0 Cada una de estas modalidades responde a necesidades específicas de protección y exige personal capacitado, procedimientos operativos definidos y el cumplimiento del marco normativo vigente. Su adecuada implementación permite fortalecer la prevención de riesgos y garantizar una prestación eficiente de los servicios de vigilancia y seguridad privada.
       Separador
       #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
